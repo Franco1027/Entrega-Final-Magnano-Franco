@@ -1,0 +1,102 @@
+[
+    {
+        "id": "telefono-1",
+        "titulo": "iPhone 12",
+        "imagen": "img/iphone/iphone12.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-apple"
+        },
+        "precio":450000
+    },
+    {
+        "id":"telefono-2",
+        "titulo": "iPhone 13",
+        "imagen": "img/iphone/iphone13.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-apple"
+        },
+        "precio":550000
+    },
+    {
+        "id":"telefono-3",
+        "titulo": "iPhone 14",
+        "imagen": "img/iphone/iphone14.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-apple"
+        },
+        "precio":650000
+    },
+    {
+        "id":"telefono-4",
+        "titulo": "Moto Edge 20",
+        "imagen": "img/motorola/edge20.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-motorola"
+        },
+        "precio":350000
+    },
+    {
+        "id":"telefono-5",
+        "titulo": "Moto Edge 30",
+        "imagen": "img/motorola/edge30.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-motorola"
+        },
+        "precio":400000
+    },
+    {
+        "id":"telefono-6",
+        "titulo": "Moto G 72",
+        "imagen": "img/motorola/g72.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-motorola"
+        },
+        "precio":120000
+    },
+    {
+        "id":"telefono-7",
+        "titulo": "Samsung S20",
+        "imagen": "img/samsung/s20.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-samsung"
+        },
+        "precio":200000
+    },
+    {
+        "id":"telefono-8",
+        "titulo": "Samsung S21",
+        "imagen": "img/samsung/s21.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-samsung"
+        },
+        "precio":250000
+    },
+    {
+        "id":"telefono-9",
+        "titulo": "Samsung S22",
+        "imagen": "img/samsung/s22.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-samsung"
+        },
+        "precio":300000
+    },
+    {
+        "id":"telefono-10",
+        "titulo": "Samsung S23",
+        "imagen": "img/samsung/s23.jpg",
+        "categoria": {
+            "nombre":"Telefono",
+            "id":"celulares-samsung"
+        },
+        "precio":400000
+    }
+]
